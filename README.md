@@ -1,6 +1,6 @@
 # Spark and BigData
  Notes about Spark 
 
-click to star:    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antonioGoncalves64/Spark-and-BigData/main?labpath=IntroPyspark.ipynb)
+* Intro PySpark:    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antonioGoncalves64/Spark-and-BigData/main?labpath=IntroPyspark.ipynb)
 
-click to Intro RDD:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antonioGoncalves64/Spark-and-BigData/main)
+* Intro PySpark RDD:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antonioGoncalves64/Spark-and-BigData/main?labpath=RDD.ipynb.ipynb)
