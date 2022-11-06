@@ -1,4 +1,4 @@
 pyspark==3.3.0
-NumPy==1.23.1
+numpy==1.23.1
 nbserverproxy
 py4j
