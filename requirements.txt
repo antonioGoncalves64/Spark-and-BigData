@@ -2,4 +2,5 @@ pyspark==3.3.1
 numpy==1.21.0
 dask==2022.2.0
 nbserverproxy
+pandas
 py4j
